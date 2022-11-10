@@ -1,2 +1,2 @@
-## LeetCode/HackerRank/Sundry Interview Prep 
+## LeetCode / HackerRank / Sundry Interview Prep 
 
